@@ -1,0 +1,12 @@
+{
+  "name": "xc-travis-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/XcXerxes/xc-travis-example.git",
+  "author": "<xiac@jieshuibao.com>",
+  "license": "MIT",
+  "main": "test.js",
+  "scripts": {
+    "test": "node test.js"
+  }
+}
